@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: krishna973/krishna1:label  # replace with your Docker-image pushed on Dockerhub
+        image: krishna973/krishna2  # replace with your Docker-image pushed on Dockerhub
         ports:
         - containerPort: 8080
